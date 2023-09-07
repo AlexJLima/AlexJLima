@@ -25,5 +25,5 @@ No momento, esses são os projetos que desenvolvi ou estou desenvolvendo:
 - Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/alexandre-j-lima/) ou no e-mail [alexandrejefferson@outlook.com](mailto:alexandrejefferson@outlook.com)
 
 
-Isso é tudo, vida longa e próspera!
+Isso é tudo, vida longa e próspera 🖖
 
