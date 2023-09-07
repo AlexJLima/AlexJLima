@@ -18,6 +18,7 @@ No momento, esses são os projetos que desenvolvi ou estou desenvolvendo:
 ## Habilidades
 
 - Linguagens de Programação: Python, Java e C#.
+- Linguagens Web: HTML, CSS e JavaScript.
 - Ferramentas: Git, Visual Studio Code e Draw.io
 
 ## Contato
