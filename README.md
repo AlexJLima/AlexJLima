@@ -12,7 +12,7 @@ Meu nome é Alexandre Lima e sou um estudante de Ciência da Computação em bus
 ## Projetos
 
 No momento, esses são os projetos que desenvolvi ou estou desenvolvendo:
-- [Flex Turismo](https://alexjlima.github.io/flex-turismos/) - Uma página web para uma agência de turismo, feita em conjunto com [Victor Fernando](https://github.com/victorfernandopessoa).
+- [Flex Turismo](https://github.com/AlexJLima/flex-turismos) - Uma página web para uma agência de turismo, feita em conjunto com [Victor Fernando](https://github.com/victorfernandopessoa).
 - [Comanda digital](link_do_projeto2) - Um aplicativo que serve para registrar e organizar pedidos de um restaurante. Este projeto está em andamento e tem como objetivo aplicar tudo que aprendi sobre engenharia de software em um cenário real.
 
 ## Habilidades
