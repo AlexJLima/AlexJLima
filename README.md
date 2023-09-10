@@ -23,7 +23,8 @@ No momento, esses são os projetos que desenvolvi ou estou desenvolvendo:
 
 ## Contato
 
-- Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/alexandre-j-lima/) ou no e-mail [alexandrejefferson@outlook.com](mailto:alexandrejefferson@outlook.com)
+- Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/alexandre-j-lima/) ou no e-mail [alexandrejefferson@outlook.com](mailto:alexandrejefferson@outlook.com).
+- Meu currículo está disponível nesse link: [CV Alexandre](https://1drv.ms/b/s!ArAOGBacaePKsE_4Flc2WDUZxHHS?e=NZ1GPq).
 
 
 Isso é tudo, vida longa e próspera 🖖
